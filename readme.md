@@ -14,3 +14,8 @@ Consider using all the knowledge you have to make the best solution you can.
 **Do not mixup the example and the template"**
 
 Submit URL to your git repository.
+
+**Python: You must install the package "request"**  
+```bash
+> pip install requests 
+```
